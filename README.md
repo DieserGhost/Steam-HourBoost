@@ -27,6 +27,8 @@ Step 3:
 
 Download and rename the Hourboost.exe to your original game exe
 
+Download under Releases or this Link: https://cdn.ghost143.de/HourBoost.exe
+
 ![image](https://github.com/DieserGhost/Steam-HourBoost/assets/144170441/e26ae760-ead2-4a11-bb62-adb1c48afc38)
 
 
