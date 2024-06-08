@@ -16,7 +16,7 @@ locate your game files...
 
 Step 2:
 
-rename your game exe to game-.exe; simply add a -..
+rename your game exe to game-.exe; simply add a '-'
 
 
 
