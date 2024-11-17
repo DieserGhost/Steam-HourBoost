@@ -3,12 +3,10 @@ import sys
 
 pygame.init()
 
-# Fenstergro?e festlegen
 window_size = (400, 200)
 screen = pygame.display.set_mode(window_size)
 pygame.display.set_caption("Hour Boost")
 
-# Farben definieren
 white = (255, 255, 255)
 black = (0, 0, 0)
 
